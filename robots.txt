@@ -25,4 +25,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://visibility-optimizer.com/sitemap.xml
+Sitemap: https://ainnect.co.kr/sitemap.xml
