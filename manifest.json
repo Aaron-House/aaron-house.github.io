@@ -1,7 +1,7 @@
 {
-  "name": "AINNECT",
-  "short_name": "AINNECT",
-  "description": "AINNECT는 GEO 마케팅 관점에서 AI 최적화와 AI 검색 가시성을 높이는 솔루션입니다.",
+  "name": "Ainnect",
+  "short_name": "Ainnect",
+  "description": "Ainnect는 GEO 마케팅 관점에서 AI 최적화와 AI 검색 가시성을 높이는 솔루션입니다.",
   "icons": [
     {
       "src": "/images/favicon-192x192.png",
@@ -14,4 +14,6 @@
   "background_color": "#000000",
   "theme_color": "#000000"
 }
+
+
 
