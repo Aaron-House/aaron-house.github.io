@@ -14,3 +14,7 @@ User-agent: Claude-Web
 Allow: /
 
 Sitemap: https://ainnect.co.kr/sitemap.xml
+
+# IndexNow key location (Bing, Yandex, Naver, Seznam)
+# https://www.indexnow.org/documentation
+Host: ainnect.co.kr
