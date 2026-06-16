@@ -1,0 +1,37 @@
+# Ainnect (에이넥트)
+
+> Ainnect는 GEO(Generative Engine Optimization, 생성형 AI 검색 최적화) 전문 컨설팅·솔루션 기업이다. ChatGPT·Gemini·Claude·Perplexity 등 생성형 AI 답변에서 브랜드의 인용 빈도, 답변 점유율(SoA), 노출 맥락을 정량 측정하고, 콘텐츠·기술 GEO 최적화를 진단·실행한다.
+
+대표: 손승완(『제로클릭』 저자) · 설립: 2026-01-07 · 소재지: 경기 성남시 분당구 대왕판교로 660 · 문의: mablet@naver.com
+
+## 핵심 개념
+- [GEO란 무엇인가](https://ainnect.co.kr/geo): 생성형 AI 답변에서 브랜드가 더 잘 인용·선택되도록 만드는 최적화 전략. AEO(Answer Engine Optimization)와 본질적으로 같은 개념.
+- SIFT 프레임워크: 콘텐츠가 AI 답변 근거로 선택될 수 있는지 평가하는 4기준 - Structure(정보 구조), Intent Fit(질문 의도 적합성), Fidelity(근거 충실도), Trust(출처 신뢰도).
+- AID-Q 프레임워크: 고객이 AI에게 실제로 묻는 질문을 역설계하는 에이넥트의 질문 설계 방법론. 브랜드명을 가린 공정 측정, 실제 구매 여정(CEP→탐색·비교→사후관리→최종 선택) 기반 설계, 넓은 포획 범위 3원칙.
+
+## 서비스
+- [서비스 전체 보기](https://ainnect.co.kr/features): 브랜드 AI 가시성 진단(외부)·GEO 최적화 진단(내부)·핵심 질문 설계·모니터링/피드백 루프.
+- 브랜드 AI 가시성 진단(외부진단): 4대 AI 엔진(ChatGPT·Gemini·Perplexity·Claude)에서 자사·경쟁사 브랜드 인용 현황과 답변 점유율(SoA)을 정량 측정.
+- GEO 최적화 진단(내부진단): 자사 웹사이트·콘텐츠의 구조·신호·체크리스트 기반 GEO 준비도 진단.
+- GEO 전략 컨설팅·실행: AID-Q 질문 설계, SIFT 기반 콘텐츠 생성, 월간 리포트와 피드백 루프.
+
+## 주요 페이지
+- [홈](https://ainnect.co.kr/)
+- [서비스](https://ainnect.co.kr/features)
+- [GEO 가이드](https://ainnect.co.kr/geo)
+- [블로그](https://ainnect.co.kr/blog)
+- [팀 소개](https://ainnect.co.kr/about)
+- [FAQ](https://ainnect.co.kr/faq)
+
+## 언론·인사이트
+- [포털 검색의 종말, AI 선택받아야 산다 (매일경제, 2026-03-19)](https://ainnect.co.kr/blog/maekyung-interview-20260319)
+- [AI는 브랜드를 선택하지 않고, 가장 설명 가능한 지식을 선택한다 (한경비즈니스, 2026-04-17)](https://ainnect.co.kr/blog/hankyung-kma-forum-20260417)
+- [앞으로 기업 마케팅은 사람 아닌 AI 설득해야 (한국경제, 2026-04-19)](https://ainnect.co.kr/blog/hankyung-interview-20260419)
+- [이젠 AI를 설득하는 브랜드 전략 짜야 할 때…모델별 최적화 필수 (한국경제, 2026-05-11)](https://ainnect.co.kr/blog/hankyung-interview-20260511)
+- [AI가 브랜드 목소리 대신…제로클릭 시대 GEO 전략 서둘러야 (디지털투데이, 2026-05-15)](https://ainnect.co.kr/blog/digitaltoday-companion-meetup-20260515)
+
+## 연락처
+- 이메일: mablet@naver.com
+- LinkedIn: https://www.linkedin.com/in/sonseungwan/
+- YouTube: https://www.youtube.com/@Ainnect
+- 네이버 블로그: https://blog.naver.com/aaronhouse_labs
