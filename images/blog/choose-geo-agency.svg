@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#121212"/>
+  <rect x="48" y="48" width="1104" height="804" rx="24" fill="#1a1a1a" stroke="#06C755" stroke-opacity="0.35" stroke-width="2"/>
+
+  <text x="600" y="118" text-anchor="middle" fill="#06C755" font-family="system-ui,sans-serif" font-size="28" font-weight="700">GEO PARTNER</text>
+  <text x="600" y="168" text-anchor="middle" fill="#a3a3a3" font-family="system-ui,sans-serif" font-size="22">7 neutral selection criteria</text>
+  <rect x="300" y="230" width="600" height="500" rx="16" fill="#262626" stroke="#404040" stroke-width="2"/>
+  <g font-family="system-ui,sans-serif" font-size="20" fill="#d4d4d4">
+    <rect x="360" y="290" width="36" height="36" rx="6" fill="#06C755" fill-opacity="0.2" stroke="#06C755" stroke-width="2"/>
+    <path d="M372 308l8 8 16-16" stroke="#06C755" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="420" y="315">Transparent methodology</text>
+    <rect x="360" y="360" width="36" height="36" rx="6" fill="#06C755" fill-opacity="0.2" stroke="#06C755" stroke-width="2"/>
+    <path d="M372 378l8 8 16-16" stroke="#06C755" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="420" y="385">Question design</text>
+    <rect x="360" y="430" width="36" height="36" rx="6" fill="#06C755" fill-opacity="0.2" stroke="#06C755" stroke-width="2"/>
+    <path d="M372 448l8 8 16-16" stroke="#06C755" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="420" y="455">Content + technical audit</text>
+    <rect x="360" y="500" width="36" height="36" rx="6" fill="#06C755" fill-opacity="0.2" stroke="#06C755" stroke-width="2"/>
+    <path d="M372 518l8 8 16-16" stroke="#06C755" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="420" y="525">Engine-specific strategy</text>
+    <rect x="360" y="570" width="36" height="36" rx="6" stroke="#525252" stroke-width="2" fill="none"/>
+    <text x="420" y="595">Monitoring loop</text>
+    <rect x="360" y="640" width="36" height="36" rx="6" stroke="#525252" stroke-width="2" fill="none"/>
+    <text x="420" y="665">Evidence-based reporting</text>
+  </g>
+</svg>

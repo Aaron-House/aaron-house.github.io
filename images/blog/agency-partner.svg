@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#121212"/>
+  <rect x="48" y="48" width="1104" height="804" rx="24" fill="#1a1a1a" stroke="#06C755" stroke-opacity="0.35" stroke-width="2"/>
+
+  <text x="600" y="118" text-anchor="middle" fill="#06C755" font-family="system-ui,sans-serif" font-size="28" font-weight="700">WHITELABEL · PARTNER</text>
+  <text x="600" y="168" text-anchor="middle" fill="#a3a3a3" font-family="system-ui,sans-serif" font-size="22">Agency GEO partnership</text>
+  <circle cx="360" cy="420" r="105" fill="#262626" stroke="#06C755" stroke-width="3"/>
+  <text x="360" y="428" text-anchor="middle" fill="#06C755" font-family="system-ui,sans-serif" font-size="22" font-weight="700">Agency</text>
+  <circle cx="840" cy="420" r="105" fill="#262626" stroke="#06C755" stroke-width="3"/>
+  <text x="840" y="428" text-anchor="middle" fill="#06C755" font-family="system-ui,sans-serif" font-size="22" font-weight="700">Ainnect</text>
+  <path d="M465 420h270" stroke="#06C755" stroke-width="4"/>
+  <circle cx="600" cy="420" r="52" fill="#06C755" fill-opacity="0.18" stroke="#06C755" stroke-width="2"/>
+  <text x="600" y="430" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="20" font-weight="700">GEO</text>
+  <rect x="390" y="580" width="420" height="130" rx="12" fill="#0d2818" stroke="#06C755" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="600" y="640" text-anchor="middle" fill="#e5e5e5" font-family="system-ui,sans-serif" font-size="20" font-weight="600">Whitelabel reports</text>
+  <text x="600" y="678" text-anchor="middle" fill="#737373" font-family="system-ui,sans-serif" font-size="16">Deliver under your agency brand</text>
+</svg>

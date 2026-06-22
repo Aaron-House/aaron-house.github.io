@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#121212"/>
+  <rect x="48" y="48" width="1104" height="804" rx="24" fill="#1a1a1a" stroke="#06C755" stroke-opacity="0.35" stroke-width="2"/>
+
+  <text x="600" y="118" text-anchor="middle" fill="#06C755" font-family="system-ui,sans-serif" font-size="28" font-weight="700">BRAND ANCHOR</text>
+  <text x="600" y="168" text-anchor="middle" fill="#a3a3a3" font-family="system-ui,sans-serif" font-size="22">Correct AI misrepresentation</text>
+  <rect x="240" y="270" width="340" height="210" rx="16" fill="#2a1a1a" stroke="#ef4444" stroke-opacity="0.55" stroke-width="2"/>
+  <text x="410" y="350" text-anchor="middle" fill="#f87171" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Wrong AI answer</text>
+  <text x="410" y="390" text-anchor="middle" fill="#737373" font-family="system-ui,sans-serif" font-size="16">Missing or distorted</text>
+  <path d="M600 375h90" stroke="#06C755" stroke-width="4" stroke-dasharray="8 8"/>
+  <polygon points="700,375 678,363 678,387" fill="#06C755"/>
+  <rect x="620" y="270" width="340" height="210" rx="16" fill="#0d2818" stroke="#06C755" stroke-opacity="0.65" stroke-width="2"/>
+  <text x="790" y="350" text-anchor="middle" fill="#06C755" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Official sources</text>
+  <text x="790" y="390" text-anchor="middle" fill="#737373" font-family="system-ui,sans-serif" font-size="16">Anchor + JSON-LD</text>
+  <rect x="340" y="550" width="520" height="190" rx="16" fill="#262626" stroke="#404040" stroke-width="2"/>
+  <text x="600" y="630" text-anchor="middle" fill="#e5e5e5" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Rebuild brand anchor</text>
+  <text x="600" y="675" text-anchor="middle" fill="#737373" font-family="system-ui,sans-serif" font-size="16">Verifiable facts for AI answers</text>
+</svg>
