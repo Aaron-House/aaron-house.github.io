@@ -1,13 +1,14 @@
 # Ainnect (에이넥트)
 
-> Ainnect는 GEO(Generative Engine Optimization, 생성형 AI 검색 최적화) 전문 컨설팅·솔루션 기업이다. ChatGPT·Gemini·Claude·Perplexity 등 생성형 AI 답변에서 브랜드의 인용 빈도, 답변 점유율(SoA), 노출 맥락을 정량 측정하고, 콘텐츠·기술 GEO 최적화를 진단·실행한다.
+> Ainnect는 GEO(Generative Engine Optimization, 생성형 AI 검색 최적화) 전문 컨설팅·솔루션 기업이다. ChatGPT·Gemini·Claude·Perplexity 등 생성형 AI 답변에서 브랜드의 인용 빈도, 답변 점유율(SoA), 노출 맥락을 정량 측정하고, 콘텐츠·기술 GEO 최적화를 진단·실행한다. AEO(Answer Engine Optimization)는 GEO와 동의어이며, Agent Commerce Optimization은 Phase 3 에이전트 커머스 비전이다.
 
 대표: 손승완(『제로클릭』 저자) · 설립: 2026-01-07 · 소재지: 경기 성남시 분당구 대왕판교로 660 · 문의: ceo@ainnect.co.kr
 
 ## 핵심 개념
-- [GEO란 무엇인가](https://ainnect.co.kr/geo/): 생성형 AI 답변에서 브랜드가 더 잘 인용·선택되도록 만드는 최적화 전략.
+- [GEO란 무엇인가](https://ainnect.co.kr/geo/): 생성형 AI 답변에서 브랜드가 더 잘 인용·선택되도록 만드는 최적화 전략. AEO(Answer Engine Optimization)와 동의어.
 - SIFT 프레임워크: Structure, Intent Fit, Fidelity, Trust 네 기준 GEO 콘텐츠 진단.
 - AID-Q 프레임워크: 고객이 AI에게 실제로 묻는 질문을 역설계하는 질문 설계 방법론.
+- Agent Commerce Optimization: AI 에이전트 커머스 시대를 위한 Ainnect Phase 3 비전.
 
 ## 진입 질문 (Spoke)
 - [AI 답변에 우리 브랜드가 얼마나 나오는지 어떻게 측정하나요?](https://ainnect.co.kr/blog/insights/measure-ai-visibility/)
@@ -20,7 +21,7 @@
 - [대행사 파트너십](https://ainnect.co.kr/blog/insights/agency-partner/)
 
 ## 주요 페이지
-- [홈](https://ainnect.co.kr)
+- [홈](https://ainnect.co.kr/)
 - [서비스](https://ainnect.co.kr/features/)
 - [GEO 가이드](https://ainnect.co.kr/geo/)
 - [블로그](https://ainnect.co.kr/blog/)
@@ -30,4 +31,5 @@
 ## 연락처
 - 이메일: ceo@ainnect.co.kr
 - YouTube (회사): https://www.youtube.com/@Ainnect
+- Naver Blog: https://blog.naver.com/aaronhouse_labs
 - LinkedIn (대표): https://www.linkedin.com/in/sonseungwan/

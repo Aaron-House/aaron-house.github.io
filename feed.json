@@ -1,0 +1,455 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Ainnect Blog",
+  "home_page_url": "https://ainnect.co.kr/blog/",
+  "feed_url": "https://ainnect.co.kr/feed.json",
+  "description": "GEO·AI 검색 최적화 인사이트와 Ainnect 보도자료",
+  "language": "ko",
+  "items": [
+    {
+      "id": "https://ainnect.co.kr/blog/press/venturesquare-interview-20260702/",
+      "url": "https://ainnect.co.kr/blog/press/venturesquare-interview-20260702/",
+      "title": "벤처스퀘어 인터뷰 - 클릭이 사라진 검색, 새 KPI는 인용률. 26.7.2",
+      "content_text": "벤처스퀘어 인터뷰 요약입니다. 제로클릭 확산으로 검색 마케팅 KPI가 클릭에서 AI 인용률로 옮겨가고, SEO와 GEO 차이, 지식 그래프형 웹 설계, 한국 웹 AI 가독성 진단과 PR·외부 레퍼런스 전략을 Ainnect 손승완 대표 관점에서 정리합니다.",
+      "date_published": "2026-07-02T00:00:00.000Z",
+      "date_modified": "2026-07-02T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "장기정 스타트업 기자단"
+        }
+      ],
+      "tags": [
+        "인터뷰",
+        "GEO 전략"
+      ],
+      "image": "https://ainnect.co.kr/images/Venture_square_SW.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/agency-partner/",
+      "url": "https://ainnect.co.kr/blog/insights/agency-partner/",
+      "title": "대행사·에이전시 GEO 파트너십 (화이트라벨)",
+      "content_text": "마케팅 에이전시·디지털 대행사가 Ainnect GEO 진단·리포트를 화이트라벨로 고객사에 제공하는 파트너 프로그램입니다. 4대 AI 엔진 SoA·브랜드 AI 가시성 측정, 월간 모니터링 대시보드, AID-Q 질문 설계 지원까지 포함합니다.",
+      "date_published": "2026-06-22T00:00:00.000Z",
+      "date_modified": "2026-06-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "대행사 파트너십",
+        "화이트라벨",
+        "GEO"
+      ],
+      "image": "https://ainnect.co.kr/images/blog/agency-partner.svg"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/choose-geo-agency/",
+      "url": "https://ainnect.co.kr/blog/insights/choose-geo-agency/",
+      "title": "GEO 대행사·솔루션은 어떤 기준으로 골라야 하나요?",
+      "content_text": "GEO 파트너·대행사를 고를 때 확인할 7가지 중립 선택 기준입니다. 측정 방법론 투명성, 질문 설계, 콘텐츠·테크니컬 동시 진단, 엔진별 전략, 모니터링 루프 등을 경쟁사 실명 비교 없이 객관적으로 점검하는 방법을 안내합니다.",
+      "date_published": "2026-06-22T00:00:00.000Z",
+      "date_modified": "2026-06-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "GEO 대행",
+        "파트너 선정",
+        "선택 기준"
+      ],
+      "image": "https://ainnect.co.kr/images/blog/choose-geo-agency.svg"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/fix-ai-misrepresentation/",
+      "url": "https://ainnect.co.kr/blog/insights/fix-ai-misrepresentation/",
+      "title": "AI가 우리 브랜드를 틀리게 말할 때 어떻게 고치나요?",
+      "content_text": "AI 답변에서 브랜드 정보가 왜곡·누락될 때 Anchor Gap을 메우고 공식 소스를 재구축하는 GEO 교정 절차입니다. 왜곡 유형 분류, 인용 출처 역추적, On-domain·Off-domain 신호 정렬, 월간 모니터링 루프까지 단계별로 설명합니다.",
+      "date_published": "2026-06-22T00:00:00.000Z",
+      "date_modified": "2026-06-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "브랜드 왜곡",
+        "Anchor Gap",
+        "GEO 교정"
+      ],
+      "image": "https://ainnect.co.kr/images/blog/fix-ai-misrepresentation.svg"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/measure-ai-visibility/",
+      "url": "https://ainnect.co.kr/blog/insights/measure-ai-visibility/",
+      "title": "AI 답변에 우리 브랜드가 얼마나 나오는지 어떻게 측정하나요?",
+      "content_text": "ChatGPT·Gemini·Perplexity·Claude 4대 AI 엔진에서 브랜드 인용률과 SoA(답변 점유율)를 직접 측정하는 셀프 측정 가이드입니다. 동일 질문 세트 설계, 기록 템플릿, 엔진별 집계·진단 기준을 단계별로 안내합니다.",
+      "date_published": "2026-06-22T00:00:00.000Z",
+      "date_modified": "2026-06-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "브랜드 AI 가시성",
+        "SoA",
+        "GEO 측정"
+      ],
+      "image": "https://ainnect.co.kr/images/blog/measure-ai-visibility.svg"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/why-brand-not-cited/",
+      "url": "https://ainnect.co.kr/blog/insights/why-brand-not-cited/",
+      "title": "ChatGPT에 우리 브랜드가 왜 안 나오나요?",
+      "content_text": "ChatGPT 등 AI 답변에 브랜드가 빠지는 5가지 구조적 원인—Anchor Gap, 질문·콘텐츠 불일치, SIFT 미달, 테크니컬 GEO, 외부 신호 부족—과 GEO 관점의 우선 개선 과제를 Ainnect 진단 프레임으로 정리합니다.",
+      "date_published": "2026-06-22T00:00:00.000Z",
+      "date_modified": "2026-06-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "브랜드 AI 가시성",
+        "ChatGPT",
+        "GEO 진단"
+      ],
+      "image": "https://ainnect.co.kr/images/blog/why-brand-not-cited.svg"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/press/digitaltoday-companion-meetup-20260515/",
+      "url": "https://ainnect.co.kr/blog/press/digitaltoday-companion-meetup-20260515/",
+      "title": "디지털투데이 컴패니언 밋업 - AI가 브랜드 목소리 대신…제로클릭 시대 GEO 전략 서둘러야. 26.5.15",
+      "content_text": "디지털투데이 컴패니언 밋업에서 손승완 Ainnect 대표가 「AI와 제로클릭 시대, 브랜드 생존 전략」을 발표했습니다. GEO의 시급성, AI가 브랜드 목소리를 대신하는 환경에서 공식 소스(Brand Anchor)를 구축해야 하는 이유를 강조했습니다.",
+      "date_published": "2026-05-15T00:00:00.000Z",
+      "date_modified": "2026-05-15T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손슬기 기자"
+        }
+      ],
+      "tags": [
+        "강연",
+        "GEO 전략"
+      ],
+      "image": "https://ainnect.co.kr/images/260522_DT.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/press/hankyung-interview-20260511/",
+      "url": "https://ainnect.co.kr/blog/press/hankyung-interview-20260511/",
+      "title": "한국경제 인터뷰 - 이젠 AI를 설득하는 브랜드 전략 짜야 할 때…모델별 최적화 필수. 26.5.11",
+      "content_text": "한국경제 인터뷰 요약입니다. 포털 클릭 기반 마케팅 시대가 지나고 AI 답변 출처·내용 분석과 ChatGPT·Gemini·Perplexity 등 모델별 GEO 최적화가 브랜드 마케팅 필수 역량이 된 배경을 설명합니다.",
+      "date_published": "2026-05-11T00:00:00.000Z",
+      "date_modified": "2026-05-11T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "이영애 기자"
+        }
+      ],
+      "tags": [
+        "인터뷰",
+        "GEO 전략"
+      ],
+      "image": "https://ainnect.co.kr/images/260522_HK.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/press/hankyung-interview-20260419/",
+      "url": "https://ainnect.co.kr/blog/press/hankyung-interview-20260419/",
+      "title": "한국경제 인터뷰 - 앞으로 기업 마케팅은 사람 아닌 AI 설득해야. 26.4.19",
+      "content_text": "한국경제 인터뷰 요약입니다. AI별 맞춤 GEO 전략과 마케팅 핵심 지표로 떠오른 「AI 내 브랜드 점유율(SoA)」, 포털 클릭 중심 전략의 한계, 기업이 사람이 아닌 AI를 설득해야 하는 마케팅 전환을 다룹니다.",
+      "date_published": "2026-04-19T00:00:00.000Z",
+      "date_modified": "2026-04-20T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "이영애 기자"
+        }
+      ],
+      "tags": [
+        "인터뷰",
+        "GEO 전략"
+      ],
+      "image": "https://ainnect.co.kr/images/hankyung-interview-0420.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/press/hankyung-kma-forum-20260417/",
+      "url": "https://ainnect.co.kr/blog/press/hankyung-kma-forum-20260417/",
+      "title": "한경비즈니스 - KMA 리더스포럼, AI 시대 생존 마케팅 전략 제시. 26.4.17",
+      "content_text": "KMA 리더스포럼 연사 손승완 Ainnect 대표 발표 요약입니다. 「검색의 종말, AI 시대 비즈니스 전략」 주제로 500여 임직원에게 GEO, 브랜드 AI 가시성, 제로클릭 시대 생존 전략을 현장에서 소개했습니다.",
+      "date_published": "2026-04-17T00:00:00.000Z",
+      "date_modified": "2026-04-17T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "김혜인 기자"
+        }
+      ],
+      "tags": [
+        "강연",
+        "GEO 전략"
+      ],
+      "image": "https://ainnect.co.kr/images/260417_article.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/press/maekyung-interview-20260319/",
+      "url": "https://ainnect.co.kr/blog/press/maekyung-interview-20260319/",
+      "title": "매일경제 인터뷰 - 곧 포털검색 종말, AI 선택받아야 산다. 26.3.19",
+      "content_text": "매일경제 인터뷰 요약입니다. 포털 검색 종말과 생성형 AI 검색 전환 속 GEO 전략, 신뢰 신호·공식 소스 구축이 브랜드 생존에 왜 필수인지, AI가 선택하는 브랜드 조건을 Ainnect 손승완 대표 관점에서 정리합니다.",
+      "date_published": "2026-03-19T00:00:00.000Z",
+      "date_modified": "2026-03-19T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "박태일 기자"
+        }
+      ],
+      "tags": [
+        "인터뷰",
+        "GEO 전략"
+      ],
+      "image": "https://ainnect.co.kr/images/maekyung-interview-photo.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/geo-content-design/",
+      "url": "https://ainnect.co.kr/blog/insights/geo-content-design/",
+      "title": "AI에게 인용되는 GEO 콘텐츠 설계",
+      "content_text": "AI가 답변을 만들 때 브랜드 콘텐츠를 인용하도록 설계하는 GEO 콘텐츠 전략입니다. SIFT 프레임워크(Structure·Intent Fit·Fidelity·Trust)와 질문형 제목·근거 중심 구조 등 AI가 선호하는 콘텐츠 설계법을 실무 관점에서 다룹니다.",
+      "date_published": "2026-01-07T00:00:00.000Z",
+      "date_modified": "2026-01-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "콘텐츠전략",
+        "AI최적화",
+        "제로클릭"
+      ],
+      "image": "https://ainnect.co.kr/images/blog_SIFT.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/geo-kpi/",
+      "url": "https://ainnect.co.kr/blog/insights/geo-kpi/",
+      "title": "AI 답변으로 이동하는 KPI",
+      "content_text": "디지털인사이트 칼럼 4편 요약입니다. 제로클릭 이후 마케팅 KPI가 클릭·노출에서 AI 답변 점유율(SoA), 인용률, 브랜드 AI 가시성(AVI)으로 이동하는 흐름과 GEO 성과 측정·대시보드 프레임을 Ainnect 관점에서 정리했습니다.",
+      "date_published": "2025-12-24T00:00:00.000Z",
+      "date_modified": "2025-12-24T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "KPI",
+        "AI최적화",
+        "제로클릭"
+      ],
+      "image": "https://ainnect.co.kr/images/GEO KPI.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/what-is-geo/",
+      "url": "https://ainnect.co.kr/blog/insights/what-is-geo/",
+      "title": "제로클릭 시대, GEO란 무엇인가? (디지털인사이트 칼럼 3)",
+      "content_text": "디지털인사이트 칼럼 3편 요약입니다. 맥킨지 AI 검색 전환 데이터와 SEO·GEO 비교, 콘텐츠·테크니컬·브랜드 권위 3축으로 본 제로클릭 시대 GEO 개념과 브랜드·마케팅 실행 방향을 Ainnect 관점에서 정리했습니다.",
+      "date_published": "2025-12-10T00:00:00.000Z",
+      "date_modified": "2025-12-10T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "AI최적화",
+        "제로클릭",
+        "SEO",
+        "브랜딩"
+      ],
+      "image": "https://ainnect.co.kr/images/WhatisGEO.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/naver-search-monopoly-end/",
+      "url": "https://ainnect.co.kr/blog/insights/naver-search-monopoly-end/",
+      "title": "네이버의 검색 독점이 끝나고 있다",
+      "content_text": "디지털인사이트 칼럼 2편 요약입니다. 제로클릭과 AI 검색 확산 속 네이버 검색 독점이 흔들리는 구조적 변화, 국내 브랜드가 ChatGPT·Gemini 등 AI 채널에서 GEO로 대비해야 하는 이유와 실행 기회를 짚습니다.",
+      "date_published": "2025-11-26T00:00:00.000Z",
+      "date_modified": "2025-11-26T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "AI최적화",
+        "트렌드",
+        "제로클릭",
+        "네이버"
+      ],
+      "image": "https://ainnect.co.kr/images/Naver_decrease.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/zero-click-age/",
+      "url": "https://ainnect.co.kr/blog/insights/zero-click-age/",
+      "title": "제로클릭의 시대",
+      "content_text": "디지털인사이트 칼럼 1편 요약입니다. ChatGPT MAU 급증과 함께 클릭이 사라지는 제로클릭(Zero-Click) 현상, 검색 패러다임 변화와 브랜드·마케팅이 직면한 구조적 전환, GEO 대응의 출발점을 소개합니다.",
+      "date_published": "2025-11-12T00:00:00.000Z",
+      "date_modified": "2025-11-12T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "AI최적화",
+        "트렌드",
+        "제로클릭"
+      ],
+      "image": "https://ainnect.co.kr/images/zero-click-age.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/ai-search-age-mckinsey-report/",
+      "url": "https://ainnect.co.kr/blog/insights/ai-search-age-mckinsey-report/",
+      "title": "AI 검색의 시대 (맥킨지보고서)",
+      "content_text": "맥킨지 「New front door to the internet」 보고서 요약입니다. AI 검색과 제로클릭 가속화 속에서 GEO를 마케팅 핵심 역량으로 투자해야 한다는 메시지, 브랜드·리테일·여행 등 업종별 시사점을 Ainnect 관점에서 정리했습니다.",
+      "date_published": "2025-10-16T00:00:00.000Z",
+      "date_modified": "2025-10-16T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "AI최적화",
+        "트렌드",
+        "맥킨지"
+      ],
+      "image": "https://ainnect.co.kr/images/mckinsey-ai-search-report.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/geo-technical-optimization-tips/",
+      "url": "https://ainnect.co.kr/blog/insights/geo-technical-optimization-tips/",
+      "title": "GEO를 위한 테크니컬 팁",
+      "content_text": "GEO 테크니컬 최적화 실무 가이드입니다. JSON-LD, llms.txt, AI 크롤러 robots 접근, SSR·렌더링, 사이트맵 등 AI가 웹사이트를 읽고 인용할 수 있게 만드는 기술 체크리스트와 우선순위를 제시합니다.",
+      "date_published": "2025-09-30T00:00:00.000Z",
+      "date_modified": "2025-09-30T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "기술최적화",
+        "웹개발",
+        "SEO기술"
+      ],
+      "image": "https://ainnect.co.kr/images/geo-technical-tips.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/geo-tips-korean-companies/",
+      "url": "https://ainnect.co.kr/blog/insights/geo-tips-korean-companies/",
+      "title": "국내 기업 담당자를 위한 GEO 팁",
+      "content_text": "한국 기업 환경에 맞춘 GEO 실무 팁입니다. 네이버 중심 검색 생태계의 한계를 넘어 ChatGPT·Gemini·Perplexity 등 AI 답변 채널에서 브랜드가 인용·추천되도록 준비하는 콘텐츠·테크니컬·신호 전략을 소개합니다.",
+      "date_published": "2025-09-22T00:00:00.000Z",
+      "date_modified": "2025-09-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "한국기업",
+        "실무팁",
+        "네이버대안"
+      ],
+      "image": "https://ainnect.co.kr/images/geo-tips-korean-companies.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/how-ai-generates-answers/",
+      "url": "https://ainnect.co.kr/blog/insights/how-ai-generates-answers/",
+      "title": "AI가 답변을 만드는 법",
+      "content_text": "ChatGPT·Claude·Gemini·Perplexity 등 생성형 AI가 답변을 만드는 과정과 브랜드·출처가 포함되는 조건을 설명합니다. RAG, 웹 검색, 인용 선택 메커니즘을 GEO 관점에서 이해하기 위한 입문 가이드입니다.",
+      "date_published": "2025-09-11T00:00:00.000Z",
+      "date_modified": "2025-09-11T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "AI검색",
+        "답변생성",
+        "브랜드노출",
+        "GEO"
+      ],
+      "image": "https://ainnect.co.kr/images/ai-answer-generation.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/geo-content-strategy/",
+      "url": "https://ainnect.co.kr/blog/insights/geo-content-strategy/",
+      "title": "GEO 콘텐츠 전략",
+      "content_text": "AI 검색 시대 브랜드가 ChatGPT 등 생성형 엔진 답변에 포함되기 위한 GEO 콘텐츠 전략입니다. AI가 선호하는 구조화·근거 중심 콘텐츠, 카테고리 진입 질문(CEP) 설계, 인용 가능한 팩트 시트 작성 방법을 소개합니다.",
+      "date_published": "2025-08-15T00:00:00.000Z",
+      "date_modified": "2025-08-15T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "콘텐츠전략",
+        "AI최적화",
+        "브랜드마케팅"
+      ],
+      "image": "https://ainnect.co.kr/images/geo-content-strategy.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/geo-seo-terms-guide/",
+      "url": "https://ainnect.co.kr/blog/insights/geo-seo-terms-guide/",
+      "title": "GEO와 SEO 용어 정리",
+      "content_text": "GEO와 SEO 핵심 용어를 실무 관점에서 정리한 가이드입니다. SoA, Anchor Gap, Brand Anchor, AID-Q, CEP 등 AI 검색·생성형 엔진 최적화 용어와 키워드 순위·백링크 등 SEO 레거시 지표의 차이를 명확히 설명합니다.",
+      "date_published": "2025-08-02T00:00:00.000Z",
+      "date_modified": "2025-08-02T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "SEO",
+        "용어정리",
+        "실무가이드"
+      ],
+      "image": "https://ainnect.co.kr/images/geo-seo-terms.png"
+    },
+    {
+      "id": "https://ainnect.co.kr/blog/insights/what-is-geo/",
+      "url": "https://ainnect.co.kr/blog/insights/what-is-geo/",
+      "title": "GEO란 무엇인가?",
+      "content_text": "GEO(Generative Engine Optimization)란 무엇인지, SEO와 어떻게 다른지 설명합니다. AI 검색·제로클릭 시대 브랜드가 ChatGPT 등 생성형 엔진 답변에 인용·추천되도록 준비하는 최적화 전략과 핵심 개념을 소개합니다.",
+      "date_published": "2025-07-25T00:00:00.000Z",
+      "date_modified": "2025-07-25T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Aaron House Labs"
+        }
+      ],
+      "tags": [
+        "GEO",
+        "AI검색",
+        "최적화전략",
+        "브랜드노출"
+      ],
+      "image": "https://ainnect.co.kr/images/geo-what-is-it.png"
+    }
+  ]
+}
