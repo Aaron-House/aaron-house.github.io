@@ -125,7 +125,7 @@
       "title": "AI 답변에 우리 브랜드가 얼마나 나오는지 어떻게 측정하나요?",
       "content_text": "ChatGPT·Gemini·Perplexity·Claude 4대 AI 엔진에서 브랜드 인용률과 SoA(답변 점유율)를 직접 측정하는 셀프 측정 가이드입니다. 동일 질문 세트 설계, 기록 템플릿, 엔진별 집계·진단 기준을 단계별로 안내합니다.",
       "date_published": "2026-06-22T00:00:00.000Z",
-      "date_modified": "2026-06-22T00:00:00.000Z",
+      "date_modified": "2026-08-25T00:00:00.000Z",
       "authors": [
         {
           "name": "손승완"
@@ -144,7 +144,7 @@
       "title": "ChatGPT에 우리 브랜드가 왜 안 나오나요?",
       "content_text": "ChatGPT 등 AI 답변에 브랜드가 빠지는 5가지 구조적 원인—Anchor Gap, 질문·콘텐츠 불일치, SIFT 미달, 테크니컬 GEO, 외부 신호 부족—과 GEO 관점의 우선 개선 과제를 Ainnect 진단 프레임으로 정리합니다.",
       "date_published": "2026-06-22T00:00:00.000Z",
-      "date_modified": "2026-06-22T00:00:00.000Z",
+      "date_modified": "2026-08-25T00:00:00.000Z",
       "authors": [
         {
           "name": "손승완"
@@ -253,7 +253,7 @@
       "title": "AI에게 인용되는 GEO 콘텐츠 설계",
       "content_text": "AI가 답변을 만들 때 브랜드 콘텐츠를 인용하도록 설계하는 GEO 콘텐츠 전략입니다. SIFT 프레임워크(Structure·Intent Fit·Fidelity·Trust)와 질문형 제목·근거 중심 구조 등 AI가 선호하는 콘텐츠 설계법을 실무 관점에서 다룹니다.",
       "date_published": "2026-01-07T00:00:00.000Z",
-      "date_modified": "2026-01-07T00:00:00.000Z",
+      "date_modified": "2026-08-25T00:00:00.000Z",
       "authors": [
         {
           "name": "Aaron House Labs"
@@ -335,7 +335,7 @@
       "title": "제로클릭의 시대",
       "content_text": "디지털인사이트 칼럼 1편 요약입니다. ChatGPT MAU 급증과 함께 클릭이 사라지는 제로클릭(Zero-Click) 현상, 검색 패러다임 변화와 브랜드·마케팅이 직면한 구조적 전환, GEO 대응의 출발점을 소개합니다.",
       "date_published": "2025-11-12T00:00:00.000Z",
-      "date_modified": "2025-11-12T00:00:00.000Z",
+      "date_modified": "2026-08-25T00:00:00.000Z",
       "authors": [
         {
           "name": "Aaron House Labs"
@@ -415,7 +415,7 @@
       "title": "AI가 답변을 만드는 법",
       "content_text": "ChatGPT·Claude·Gemini·Perplexity 등 생성형 AI가 답변을 만드는 과정과 브랜드·출처가 포함되는 조건을 설명합니다. RAG, 웹 검색, 인용 선택 메커니즘을 GEO 관점에서 이해하기 위한 입문 가이드입니다.",
       "date_published": "2025-09-11T00:00:00.000Z",
-      "date_modified": "2025-09-11T00:00:00.000Z",
+      "date_modified": "2026-08-25T00:00:00.000Z",
       "authors": [
         {
           "name": "Aaron House Labs"
@@ -455,7 +455,7 @@
       "title": "GEO와 SEO 용어 정리",
       "content_text": "GEO와 SEO 핵심 용어를 실무 관점에서 정리한 가이드입니다. SoA, Anchor Gap, Brand Anchor, AID-Q, CEP 등 AI 검색·생성형 엔진 최적화 용어와 키워드 순위·백링크 등 SEO 레거시 지표의 차이를 명확히 설명합니다.",
       "date_published": "2025-08-02T00:00:00.000Z",
-      "date_modified": "2025-08-02T00:00:00.000Z",
+      "date_modified": "2026-08-25T00:00:00.000Z",
       "authors": [
         {
           "name": "Aaron House Labs"
@@ -475,7 +475,7 @@
       "title": "GEO란 무엇인가?",
       "content_text": "GEO(Generative Engine Optimization)란 무엇인지, SEO와 어떻게 다른지 설명합니다. AI 검색·제로클릭 시대 브랜드가 ChatGPT 등 생성형 엔진 답변에 인용·추천되도록 준비하는 최적화 전략과 핵심 개념을 소개합니다.",
       "date_published": "2025-07-25T00:00:00.000Z",
-      "date_modified": "2025-07-25T00:00:00.000Z",
+      "date_modified": "2026-08-25T00:00:00.000Z",
       "authors": [
         {
           "name": "Aaron House Labs"
