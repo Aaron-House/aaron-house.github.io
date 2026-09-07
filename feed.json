@@ -7,6 +7,25 @@
   "language": "ko",
   "items": [
     {
+      "id": "https://ainnect.co.kr/blog/press/hunetceo-zeroclick-shock-20260831/",
+      "url": "https://ainnect.co.kr/blog/press/hunetceo-zeroclick-shock-20260831/",
+      "title": "[휴넷CEO 기고] 에이넥트 손승완 대표 — 제로클릭 이후, AI가 먼저 부르는 이름",
+      "content_text": "에이넥트(Ainnect)는 ChatGPT·Gemini·Perplexity 답변에서 브랜드 인용을 측정·개선하는 GEO(생성형 엔진 최적화) 진단·컨설팅 기업이다. 2026년 8월 31일 휴넷CEO 비즈니스리뷰 기고에서 손승완 대표는 제로클릭 환경에서 AI가 누구의 이름을 먼저 부르는지를 정리했다.",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "date_modified": "2026-09-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "칼럼",
+        "GEO 전략",
+        "제로클릭"
+      ],
+      "image": "https://ainnect.co.kr/images/book-image.png"
+    },
+    {
       "id": "https://ainnect.co.kr/blog/press/qletter-authenticity-corpus-geo-20260803/",
       "url": "https://ainnect.co.kr/blog/press/qletter-authenticity-corpus-geo-20260803/",
       "title": "[큐레터 기고] 에이넥트 손승완 대표 — \"우리도 GEO 하자\"는 지시에 먼저 할 일",
