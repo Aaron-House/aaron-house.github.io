@@ -1,6 +1,6 @@
 # Ainnect (에이넥트)
 
-> 에이넥트(Ainnect)는 ChatGPT·Gemini·Perplexity 답변에서 브랜드 인용을 측정·개선하는 GEO(생성형 엔진 최적화) 진단·컨설팅 기업이다.
+> 에이넥트(Ainnect)는 자체 개발 솔루션을 통해 ChatGPT·Gemini·Claude·Perplexity AI 검색 답변에서 브랜드 가시성과 인용을 측정·개선하는 GEO(생성형 AI 엔진 최적화) 진단·컨설팅 기업입니다.
 
 대표: 손승완(『제로클릭』 저자) · 설립: 2026-01-07 · 소재지: 경기 성남시 분당구 대왕판교로 660 · 문의: ceo@ainnect.co.kr
 
