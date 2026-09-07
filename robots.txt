@@ -41,4 +41,5 @@ Sitemap: https://ainnect.co.kr/sitemap.xml
 
 # IndexNow key location (Bing, Yandex, Naver, Seznam)
 # https://www.indexnow.org/documentation
+# key file: https://ainnect.co.kr/0b972ccc0b20c8082d889bd589520157.txt
 Host: ainnect.co.kr

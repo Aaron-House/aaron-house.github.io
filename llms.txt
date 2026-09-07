@@ -1,6 +1,6 @@
 # Ainnect (에이넥트)
 
-> Ainnect는 GEO(Generative Engine Optimization, 생성형 AI 검색 최적화) 전문 컨설팅·솔루션 기업이다. ChatGPT·Gemini·Claude·Perplexity 등 생성형 AI 답변에서 브랜드의 인용 빈도, 답변 점유율(SoA), 노출 맥락을 정량 측정하고, 콘텐츠·기술 GEO 최적화를 진단·실행한다. AEO(Answer Engine Optimization)는 GEO와 동의어이며, Agent Commerce Optimization은 Phase 3 에이전트 커머스 비전이다.
+> 에이넥트(Ainnect)는 ChatGPT·Gemini·Perplexity 답변에서 브랜드 인용을 측정·개선하는 GEO(생성형 엔진 최적화) 진단·컨설팅 기업이다.
 
 대표: 손승완(『제로클릭』 저자) · 설립: 2026-01-07 · 소재지: 경기 성남시 분당구 대왕판교로 660 · 문의: ceo@ainnect.co.kr
 
@@ -19,6 +19,9 @@
 ## 서비스
 - [서비스 전체 보기](https://ainnect.co.kr/features/)
 - [대행사 파트너십](https://ainnect.co.kr/blog/insights/agency-partner/)
+
+## 언론 보도
+- [언론이 본 에이넥트 (보도·인터뷰·기고 목록)](https://ainnect.co.kr/blog/press/)
 
 ## 주요 페이지
 - [홈](https://ainnect.co.kr/)
