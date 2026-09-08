@@ -7,6 +7,25 @@
   "language": "ko",
   "items": [
     {
+      "id": "https://ainnect.co.kr/blog/insights/geo-consulting-7-criteria/",
+      "url": "https://ainnect.co.kr/blog/insights/geo-consulting-7-criteria/",
+      "title": "제대로 된 GEO 컨설팅 회사 고르는 7가지 기준",
+      "content_text": "제대로 된 GEO 컨설팅 회사를 고를 때는 자체 분석 솔루션, 데이터 해석, PM 역량, 질문 설계, SEO와 GEO 구분, 산업 이해, 검증 가능한 신뢰를 확인해야 합니다. GEO는 AI 노출이 아니라 이해·신뢰·추천을 만드는 일입니다.",
+      "date_published": "2026-09-05T00:00:00.000Z",
+      "date_modified": "2026-09-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "GEO 컨설팅",
+        "파트너 선정",
+        "선택 기준"
+      ],
+      "image": "https://ainnect.co.kr/images/분석리포트_주간리포트.png"
+    },
+    {
       "id": "https://ainnect.co.kr/blog/press/hunetceo-zeroclick-shock-20260831/",
       "url": "https://ainnect.co.kr/blog/press/hunetceo-zeroclick-shock-20260831/",
       "title": "[휴넷CEO 기고] 에이넥트 손승완 대표 — 제로클릭 이후, AI가 먼저 부르는 이름",
