@@ -28,7 +28,7 @@
 - [홈](https://ainnect.co.kr/)
 - [서비스](https://ainnect.co.kr/features/)
 - [GEO 가이드](https://ainnect.co.kr/geo/)
-- [블로그](https://ainnect.co.kr/blog/)
+- [블로그](https://ainnect.co.kr/blog/press/)
 - [팀 소개](https://ainnect.co.kr/about/)
 - [FAQ](https://ainnect.co.kr/faq/)
 
