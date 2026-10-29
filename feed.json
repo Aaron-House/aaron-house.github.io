@@ -7,6 +7,25 @@
   "language": "ko",
   "items": [
     {
+      "id": "https://ainnect.co.kr/blog/insights/naver-ai-briefing-brand-visibility/",
+      "url": "https://ainnect.co.kr/blog/insights/naver-ai-briefing-brand-visibility/",
+      "title": "네이버 AI 검색 답변에서 우리 브랜드 노출이 보고 싶다면",
+      "content_text": "에이넥트는 ChatGPT·Gemini·Claude·Perplexity에 이어 네이버 AI 브리핑 답변도 수집합니다(Beta). 국내 고객을 만나는 브랜드라면 네이버 AI 답변에서 브랜드 언급 여부, 소개되는 맥락, 정보의 정확성을 함께 점검해야 하는 이유와 확인 방법을 정리했습니다.",
+      "date_published": "2026-10-29T00:00:00.000Z",
+      "date_modified": "2026-10-29T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "손승완"
+        }
+      ],
+      "tags": [
+        "네이버 AI 브리핑",
+        "AI 검색",
+        "브랜드 모니터링"
+      ],
+      "image": "https://ainnect.co.kr/images/naver-ai-briefing-overview.jpg"
+    },
+    {
       "id": "https://ainnect.co.kr/blog/press/qletter-geo-questions-shift-20261012/",
       "url": "https://ainnect.co.kr/blog/press/qletter-geo-questions-shift-20261012/",
       "title": "[큐레터 기고] 에이넥트 손승완 대표 — 노출에서 의미로, 달라진 GEO 질문",

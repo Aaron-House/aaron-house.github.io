@@ -16,6 +16,7 @@
 - [GEO 대행사·솔루션은 어떤 기준으로 골라야 하나요?](https://ainnect.co.kr/blog/insights/choose-geo-agency/)
 - [제대로 된 GEO 컨설팅 회사 고르는 7가지 기준](https://ainnect.co.kr/blog/insights/geo-consulting-7-criteria/)
 - [AI가 우리 브랜드를 틀리게 말할 때 어떻게 고치나요?](https://ainnect.co.kr/blog/insights/fix-ai-misrepresentation/)
+- [네이버 AI 검색 답변에서 우리 브랜드 노출이 보고 싶다면 (네이버 AI 브리핑 수집 Beta)](https://ainnect.co.kr/blog/insights/naver-ai-briefing-brand-visibility/)
 
 ## 서비스
 - [GEO 컨설팅 서비스 — 진단·전략·실행](https://ainnect.co.kr/features/)
